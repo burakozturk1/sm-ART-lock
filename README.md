@@ -145,6 +145,3 @@ sm-ART-lock/
 - Klavye eventleri `nil` dönülerek swallow edilir.
 - `Command + 0` kısayolu yakalanınca event tap kapatılır.
 
-## Lisans
-
-Bu proje için henüz lisans dosyası eklenmedi. Public GitHub reposu olarak kullanacaksanız MIT gibi açık kaynak bir lisans ekleyebilirsiniz.
